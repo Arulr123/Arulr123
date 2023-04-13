@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full MERN stack developer**
 
-- 👨‍💻 All of my projects are available at [http://arulportfoliophotos.netlify.app,https://arulwebcalculator.netlify.app](http://arulportfoliophotos.netlify.app,https://arulwebcalculator.netlify.app)
+- 👨‍💻 All of my projects are available at [http://arulportfoliophotos.netlify.app]
 
 - 💬 Ask me about **MERN**
 
