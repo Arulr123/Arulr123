@@ -1,6 +1,7 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif...)](https://arulr123.io)
+[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://arulr123.io)
 <h1 align="center">Hi 👋, I'm Arul Ramalingam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full MERN Stack Expert</h3>
+<h3 align="center">Proficient in MongoDB, Express.JS , React.JS , Node.JS</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arulr123&label=Profile%20views&color=0e75b6&style=flat" alt="arulr123" /> </p>
@@ -11,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [http://arulportfoliophotos.netlify.app] , [https://arulwebcalculator.netlify.app]
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN,HTML,CSS,JAVASCRIPT**
 
 - 📫 How to reach me **arulr2785@gmail.com**
 
